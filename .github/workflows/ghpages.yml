@@ -2,9 +2,9 @@ name: Run the Action on each commit
 
 on:
   push:
-    branches: 
-      - ghpages
-
+    branches:
+      - '*'
+      
 permissions:
   contents: write
   
