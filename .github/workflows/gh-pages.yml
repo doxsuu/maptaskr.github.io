@@ -2,7 +2,7 @@ name: Create Pull Request from gh-pages to main
 
 on:
   push:
-    branches: gh-pages
+    branches: '*'
 
 jobs:
   create_pull_request:
