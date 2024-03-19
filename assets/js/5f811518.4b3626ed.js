@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[6766],{4746:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/maptaskr.github.io/blog/tags/hello","allTagsPath":"/maptaskr.github.io/blog/tags","count":2,"unlisted":false}')}}]);
