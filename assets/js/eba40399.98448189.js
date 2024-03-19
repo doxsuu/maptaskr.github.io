@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaptaskr_docs=self.webpackChunkmaptaskr_docs||[]).push([[6508],{9578:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/maptaskr.github.io/blog/tags/facebook","allTagsPath":"/maptaskr.github.io/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaptaskr_docs=self.webpackChunkmaptaskr_docs||[]).push([[4062],{170:s=>{s.exports=JSON.parse('{"permalink":"/maptaskr.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
