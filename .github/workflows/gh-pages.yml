@@ -3,7 +3,7 @@ name: Run the Action on each commit
 on:
   push:
     branches:
-      - '*'
+      - 'gh-pages'
       
 permissions:
   contents: write
